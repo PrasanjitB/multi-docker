@@ -1,1 +1,58 @@
-[2019-02-26 12:19:58.523] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-02-26 12:51:01.537] [renderer1] [error] connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock: Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 12:51:03.682] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 12:51:03.684] [renderer1] [error] connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock: Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 12:51:03.684] [renderer1] [info] no standard startup: not just one text editor
+[2019-02-26 12:51:13.691] [renderer1] [warning] UNRESPONSIVE extension host, 'PeterJausovec.vscode-docker' took 96% of 888.303ms, saved PROFILE here: '/tmp/exthost-fa3c05.cpuprofile' [{"id":"gc","total":20758,"percentage":2},{"id":"PeterJausovec.vscode-docker","total":856358,"percentage":96},{"id":"program","total":3564,"percentage":0},{"id":"self","total":1547,"percentage":0}]
+[2019-02-26 12:56:03.698] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 13:01:03.699] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 13:06:03.703] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 13:11:03.703] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 13:16:03.705] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 13:21:03.707] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 13:26:03.708] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 13:31:03.708] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 13:36:03.709] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 13:41:03.710] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 13:46:03.712] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 13:51:03.712] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 13:56:03.713] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 14:01:03.715] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 14:06:03.722] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 14:11:03.722] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 14:16:03.723] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 14:21:03.724] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 14:26:03.724] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 14:31:03.724] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 14:36:03.725] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 14:41:03.727] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 14:46:03.981] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 14:50:51.535] [renderer1] [error] connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock: Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-02-26 14:51:03.988] [renderer1] [error] Error: connect ENOENT /home/lonewolf/Desktop/multi-docker-master/~/.vscode-root/1.31.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
